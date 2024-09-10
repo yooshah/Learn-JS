@@ -1,0 +1,26 @@
+.tableWidth {
+  width: 90%;
+  margin: auto;
+  background-color: yellowgreen;
+  display: flex;
+}
+table {
+  width: 100%;
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid #fff;
+  border-collapse: collapse;
+}
+table th {
+  width: 25%;
+  background-color: rgb(139, 130, 130);
+  color: aliceblue;
+  border: 1px solid rgb(10, 10, 10);
+}
+table td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+img {
+  width: 100px;
+}
